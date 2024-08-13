@@ -1,1 +1,2 @@
-echo ".DS_Store" >> .gitignore
+# macOS 디렉토리 메타데이터 파일 무시
+.DS_Store
